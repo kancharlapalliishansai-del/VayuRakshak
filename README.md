@@ -1,4 +1,6 @@
 # VayuRakshak 🛡️💨
+![VayuRakshak Block Diagram](VayuRakshak.png)
+
 ### An Embedded Gas & Smoke Detection System for Brick Manufacturing Units
 
 **VayuRakshak** (meaning *"Air Protector"*) is an industrial-grade embedded safety system designed to monitor air quality and protect workers in harsh brick manufacturing environments and kilns. Utilizing the **MQ-02 sensor** and modular hardware architecture, the system detects dangerous atmospheric changes caused by heavy fuel combustion and triggers localized multi-sensory alarms.
