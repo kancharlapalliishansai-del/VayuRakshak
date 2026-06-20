@@ -23,4 +23,6 @@
 * **Peripherals:** High-Output Piezoelectric Buzzer, High-Intensity Warning LED
 
 ### Block Diagram
+![VayuRakshak Block Diagram](block_diagram.png)
+
 # VayuRakshak
